@@ -1,0 +1,24 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='860' height='560'>
+<title>FIP vs. Runs Allowed (2023-2024 sample)</title>
+<rect width='100%' height='100%' fill='white'/>
+<text x='430.0' y='40' font-size='18' text-anchor='middle'>FIP vs. Runs Allowed (2023-2024 sample)</text>
+<line x1='70' y1='490' x2='790' y2='490' stroke='black'/><line x1='70.0' y1='490' x2='70.0' y2='496' stroke='black'/><text x='70.0' y='514' font-size='12' text-anchor='middle'>3.61</text><line x1='214.0' y1='490' x2='214.0' y2='496' stroke='black'/><text x='214.0' y='514' font-size='12' text-anchor='middle'>3.72</text><line x1='358.0' y1='490' x2='358.0' y2='496' stroke='black'/><text x='358.0' y='514' font-size='12' text-anchor='middle'>3.82</text><line x1='502.0' y1='490' x2='502.0' y2='496' stroke='black'/><text x='502.0' y='514' font-size='12' text-anchor='middle'>3.93</text><line x1='646.0' y1='490' x2='646.0' y2='496' stroke='black'/><text x='646.0' y='514' font-size='12' text-anchor='middle'>4.03</text><line x1='790.0' y1='490' x2='790.0' y2='496' stroke='black'/><text x='790.0' y='514' font-size='12' text-anchor='middle'>4.14</text><line x1='70' y1='70' x2='70' y2='490' stroke='black'/><line x1='64' y1='490.0' x2='70' y2='490.0' stroke='black'/><text x='60' y='494.0' font-size='12' text-anchor='end'>613</text><line x1='64' y1='406.0' x2='70' y2='406.0' stroke='black'/><text x='60' y='410.0' font-size='12' text-anchor='end'>625</text><line x1='64' y1='322.0' x2='70' y2='322.0' stroke='black'/><text x='60' y='326.0' font-size='12' text-anchor='end'>638</text><line x1='64' y1='238.0' x2='70' y2='238.0' stroke='black'/><text x='60' y='242.0' font-size='12' text-anchor='end'>650</text><line x1='64' y1='154.0' x2='70' y2='154.0' stroke='black'/><text x='60' y='158.0' font-size='12' text-anchor='end'>663</text><line x1='64' y1='70.0' x2='70' y2='70.0' stroke='black'/><text x='60' y='74.0' font-size='12' text-anchor='end'>675</text><text x='430.0' y='540' font-size='14' text-anchor='middle'>Fielding Independent Pitching (FIP)</text><text x='20' y='280.0' font-size='14' transform='rotate(-90 20,280.0)' text-anchor='middle'>Runs Allowed</text>
+<circle cx='722.1' cy='259.7' r='7' fill='#0d47a1' stroke='#000' stroke-width='1.5'>
+  <title>Milwaukee Brewers 2023: FIP 4.09, Runs Allowed 647</title>
+</circle><text x='730.1' y='255.7' font-size='12' fill='#0d47a1'>2023</text><circle cx='341.7' cy='178.4' r='5' fill='#0d47a1' stroke='#444444' stroke-width='0.8'>
+  <title>Minnesota Twins 2023: FIP 3.81, Runs Allowed 659</title>
+</circle><circle cx='368.9' cy='178.4' r='5' fill='#0d47a1' stroke='#444444' stroke-width='0.8'>
+  <title>Seattle Mariners 2023: FIP 3.83, Runs Allowed 659</title>
+</circle><circle cx='165.1' cy='137.7' r='5' fill='#0d47a1' stroke='#444444' stroke-width='0.8'>
+  <title>Tampa Bay Rays 2023: FIP 3.68, Runs Allowed 665</title>
+</circle><circle cx='491.1' cy='422.3' r='7' fill='#2e7d32' stroke='#000' stroke-width='1.5'>
+  <title>Milwaukee Brewers 2024: FIP 3.92, Runs Allowed 623</title>
+</circle><text x='499.1' y='418.3' font-size='12' fill='#2e7d32'>2024</text><circle cx='273.8' cy='300.3' r='5' fill='#2e7d32' stroke='#444444' stroke-width='0.8'>
+  <title>Minnesota Twins 2024: FIP 3.76, Runs Allowed 641</title>
+</circle><circle cx='260.2' cy='327.4' r='5' fill='#2e7d32' stroke='#444444' stroke-width='0.8'>
+  <title>Seattle Mariners 2024: FIP 3.75, Runs Allowed 637</title>
+</circle><circle cx='137.9' cy='225.8' r='5' fill='#2e7d32' stroke='#444444' stroke-width='0.8'>
+  <title>Tampa Bay Rays 2024: FIP 3.66, Runs Allowed 652</title>
+</circle>
+<rect x='800' y='50' width='16' height='16' fill='#0d47a1' stroke='#333' stroke-width='0.5'/><text x='824' y='62' font-size='12'>2023</text><rect x='800' y='74' width='16' height='16' fill='#2e7d32' stroke='#333' stroke-width='0.5'/><text x='824' y='86' font-size='12'>2024</text><rect x='800' y='106' width='16' height='16' fill='white' stroke='#000' stroke-width='1.5'/><text x='824' y='118' font-size='12'>Brewers outline</text>
+</svg>
