@@ -1,0 +1,9 @@
+season,team,wins,runs_allowed,era,fip,era_minus_fip,era_plus,babip_allowed,drs,oaa,defensive_war,pitching_war
+2023,Milwaukee Brewers,92,647,3.71,4.09,-0.38,116,0.281,52,24,13.6,18.1
+2023,Minnesota Twins,87,659,3.87,3.81,0.06,112,0.285,23,14,8.2,21.0
+2023,Seattle Mariners,88,659,3.74,3.83,-0.09,113,0.286,35,22,10.7,20.3
+2023,Tampa Bay Rays,99,665,3.86,3.68,0.18,115,0.284,54,26,14.7,23.4
+2024,Milwaukee Brewers,94,623,3.66,3.92,-0.26,121,0.279,58,26,14.1,19.4
+2024,Minnesota Twins,88,641,3.81,3.76,0.05,115,0.283,27,16,8.9,21.6
+2024,Seattle Mariners,89,637,3.73,3.75,-0.02,117,0.284,41,21,11.2,20.9
+2024,Tampa Bay Rays,97,652,3.78,3.66,0.12,118,0.283,49,24,13.4,23.7
