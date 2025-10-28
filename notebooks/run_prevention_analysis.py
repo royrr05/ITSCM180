@@ -120,7 +120,7 @@ def ensure_assignment_coverage(records: Iterable[TeamSeason]) -> Tuple[bool, Dic
     )
 
     checklist_path = ANALYSIS_DIR / "assignment_checklist.json"
-    checklist_path.write_text(json.dumps(coverage_messages, indent=2))
+    checklist_path.write_text(json.dumps(coverage_messages, indent=2) + "\n")
     return has_required_window and enough_peer_teams, coverage_messages
 
 

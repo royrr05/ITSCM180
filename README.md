@@ -24,3 +24,4 @@ The command above will:
 4. Refresh the Brewers-focused and team-wide summary tables consumed by the report.
 
 After running the script, open `reports/run_prevention_efficiency_report.md` to review the latest narrative and reference the `figures/` outputs for the visual appendix.
+The most recent console output from the automation is captured in `analysis/latest_run_output.txt` for quick verification.
