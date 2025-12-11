@@ -1,0 +1,9 @@
+Horse_Name,PP,Run_Style,Turn_Time,Had_Trouble,Fitness_Flag,Trainer_Angle_Flag,Prime_Power,Last_Speed,Last_LP,Class_Rating,Performance_Score,Model_Prob,Fair_Odds,Market_Odds,Value_Type
+Storm Seeker,3,E,21.0,0,0,0,148.8,96.0,87.0,89.0,0.7463,0.2257,4.431,11.0,Underlay
+Victory Light,1,E/P,23.0,0,0,0,146.2,94.0,94.0,87.0,0.6776,0.2049,4.88,3.5,Overlay
+Crescent Moons,5,S,7.0,1,0,0,149.7,91.0,110.0,90.0,0.6319,0.1911,5.233,7.0,Underlay
+Silver Verdict,7,E/P,6.0,0,0,0,145.1,90.0,80.0,85.0,0.3503,0.1059,9.439,5.0,Overlay
+Odyssey King,8,S,7.0,0,0,0,141.3,86.0,104.0,83.0,0.2909,0.088,11.367,16.0,Underlay
+Midnight Shadow,2,E,7.0,0,0,0,143.0,88.0,76.0,86.0,0.2801,0.0847,11.806,9.0,Overlay
+Ridge Runner,4,P,8.0,0,0,0,140.5,89.0,91.0,82.0,0.2561,0.0775,12.91,13.0,Underlay
+Royal Banner,6,S,14.0,1,0,0,138.2,83.0,88.0,80.0,0.0735,0.0222,44.972,21.0,Overlay
